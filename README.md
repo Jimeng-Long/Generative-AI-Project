@@ -7,6 +7,10 @@
 ## Project Summary
 
 ## Prequisite Libraries
+Package                       Version
+----------------------------- ---------------
+Flask                         2.2.2
+openai                        1.6.1
 
 ## Installation
 
