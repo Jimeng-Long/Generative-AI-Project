@@ -10,11 +10,11 @@ Virtual Flashcards is an innovative, interactive learning chatbot designed to ai
 ## Prequisite Libraries
 Package                       Version
 ----------------------------- ---------------
-Flask                         2.2.2
+Flask                         2.2.2 <br>
 openai                        1.6.1
 
 ## Installation
-pip install Flask
+pip install Flask <br>
 pip install openai
 
 ## Working Screenshots
