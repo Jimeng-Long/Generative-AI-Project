@@ -2,7 +2,7 @@
 
 ## Authors
 * [Mohammed Usama Jasnak](usamajasnak@gmail.com) 
-* [Jimeng Long](email@dal.ca) 
+* [Jimeng Long](jimeng.long27@gmail.com) 
 
 ## Project Summary
 
