@@ -21,7 +21,7 @@ pip install openai
 
 * Scenario 1: Asking a Question
 Description: When the user poses a question, the chatbot will provide a concise and accurate response. Subsequently, the chatbot will ask a related follow-up question to encourage further exploration and learning.
-Example:
+Example:<br>
 ![image](https://github.com/GenerativeAIHack/Virtual-Flashcards/assets/103351624/2e7cc01e-5262-42b4-96df-444b0762a8f6)
 
 
@@ -29,19 +29,19 @@ Example:
 * Scenario 2: Correct Answer
 Description: If the user provides a correct answer, the chatbot will acknowledge the answer with positive feedback and present a follow-up question to deepen the user's understanding or to explore related topics.
 
-Example:
+Example:<br>
 ![image](https://github.com/GenerativeAIHack/Virtual-Flashcards/assets/103351624/9be0ba29-c1c2-4b6f-a5f7-88b71bf07bb8)
 
 
 * Scenario 3: Wrong Answer
 Description: In cases where the user's answer is incorrect, the chatbot will gently correct the mistake and provide the right answer. This will be followed by another question to maintain engagement and reinforce learning.
 
-Example:
+Example:<br>
 ![image](https://github.com/GenerativeAIHack/Virtual-Flashcards/assets/103351624/6f3f345d-f4f1-42fd-916f-1006f9e0096f)
 
 
 * Scenario 4: Don't Know the Answer
 Description: If the user is unable to answer, the chatbot will offer encouraging feedback and then supply the correct answer. This is followed by an additional question, ensuring the conversation and learning process continues.
 
-Example:
+Example:<br>
 ![image](https://github.com/GenerativeAIHack/Virtual-Flashcards/assets/103351624/58ae63fe-2034-47d1-b9fc-5493e950d87a)
