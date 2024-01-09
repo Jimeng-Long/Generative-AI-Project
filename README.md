@@ -19,7 +19,7 @@ pip install openai
 
 ## Case Scenarios of our project
 
-* <em>Scenario 1:</em> Asking a Question <br>
+* <strong>Scenario 1:</strong> Asking a Question <br>
 Description: When the user poses a question, the chatbot will provide a concise and accurate response. Subsequently, the chatbot will ask a related follow-up question to encourage further exploration and learning.
 
 Example:<br>
