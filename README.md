@@ -1,8 +1,8 @@
 # Virtual-Flashcards
 
 ## Authors
-* [Mohammed Usama Jasnak](https://github.com/UsamaJasnak/) 
 * [Jimeng Long](https://github.com/Jimeng-Long) 
+* [Mohammed Usama Jasnak](https://github.com/UsamaJasnak/) 
 
 ## Project Summary
 Virtual Flashcards is an innovative, interactive learning chatbot designed to aid students in their studies through a question-and-answer format. Utilizing OpenAI APIs, this chatbot not only presents educational content but also provides immediate feedback, enhancing the learning experience. It serves as a dynamic tool for students seeking an engaging and responsive way to reinforce their knowledge.
